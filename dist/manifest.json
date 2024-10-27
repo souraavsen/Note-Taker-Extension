@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Note Taker Extension",
+  "version": "1.0",
+  "description": "A simple note-taking browser extension.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "./vite.svg"
+  },
+  "permissions": ["clipboardWrite"]
+}
