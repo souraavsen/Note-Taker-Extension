@@ -36,7 +36,7 @@ function Note() {
   };
 
   return (
-    <div className="min-w-96 p-4 max-w-md mx-auto bg-white backdrop-blur-md shadow-lg border border-opacity-30 border-white">
+    <div className="min-w-96 p-4 rounded-sm max-w-md mx-auto bg-white backdrop-blur-md shadow-lg border border-opacity-30 border-white">
       <h1 className="text-2xl font-bold mb-4 text-black">Note Taker</h1>
       <div className="w-96">
         <div className="relative w-full min-w-[200px]">
